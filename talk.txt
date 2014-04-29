@@ -24,6 +24,8 @@ What's the deal with all of the Gemstones
 
 If you want to create a new programming language call it Aquamarine!
 
+How many languages compile to javascript?
+
 So...we can look at Opal..I guess
 
 What is Opal?
