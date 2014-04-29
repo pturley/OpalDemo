@@ -1,0 +1,39 @@
+Opal: Yet another precious gem
+
+With me, Patrick Turley
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What's the deal with all of the Gemstones
+
+- Topaz
+- Amethyst
+- Emerald
+- Ruby
+
+If you want to create a new programming language call it Aquamarine!
+
+So...we can look at Opal..I guess
+
+What is Opal?
+
+- Ruby to Javascript compiler
+- Has integrations with:
+-- The asset pipeline
+-- JQuery (even if they arent that great)
+-- Rspec
+-- Haml
+-- And others
+
+Yo, what about Coffeescript?  I heard that is cool too. What makes Opal better than Coffeescript?
